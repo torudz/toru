@@ -18,4 +18,4 @@ for attempt = 1, 3 do
     end
     if attempt < 3 then task.wait(0.5) end
 end
-warn("[Adonis HUB] Khong tai duoc script. Hay thu lai.")
+warn("[Toru] The script could not be downloaded. Please try again.")
