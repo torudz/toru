@@ -3,7 +3,7 @@ local routes = {
     games = { [10775182046] = hub .. "Toru_TAS.lua" },
     places = {
         [129081220403721] = hub .. "Toru_TAS.lua",
-        [1794840458755] = hub .. "Toru_AE.lua",
+        [123969755970816] = hub .. "Toru_AE.lua",
     },
 }
 
